@@ -1,6 +1,6 @@
 from Crypto.Cipher import DES
 from Crypto.Util.Padding import pad, unpad
-from binascii import unhexlify, hexlify
+from binascii import unhexlify
 
 # Define the DES key (must be 8 bytes for DES)
 key = bytes.fromhex("A1B2C3D4E5F60708")
