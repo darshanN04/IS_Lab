@@ -1,6 +1,6 @@
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
-from binascii import hexlify, unhexlify
+from binascii import hexlify
 
 # Step 1: Generate RSA key pair (public and private key)
 key = RSA.generate(2048)  # 2048-bit key for RSA
@@ -16,7 +16,7 @@ print(f"Public Key (n, e): ({n}, {e})")
 print(f"Private Key (n, d): ({n}, {d})")
 
 # Step 3: Encrypt the message using the public key
-message = "Asymmetric Encryption".encode('utf-8')
+message = "Asymmetric Encryption".encode()
 cipher = PKCS1_OAEP.new(public_key)
 ciphertext = cipher.encrypt(message)
 
@@ -29,3 +29,7 @@ decrypted_message = cipher.decrypt(ciphertext)
 
 # Step 6: Output the decrypted message
 print(f"Decrypted Message: {decrypted_message.decode()}")
+
+
+
+
