@@ -27,7 +27,7 @@ def decrypt(en_msg, p, key, q):
         dr_msg.append(chr(int(en_msg[i] / h)))
     return "".join(dr_msg)
 
-msg = "condom"
+msg = "confidential"
 print("Original Message:", msg)
 q = random.randint(10**20, 10**50)
 g = random.randint(2, q)

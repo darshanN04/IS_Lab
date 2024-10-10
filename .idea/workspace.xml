@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c545d44-0bf3-4ebc-b48a-7d69da3d4dfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/q3_elgamal_simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/xxx--q2_ECC_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/q5_DHkey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Adq1_DBelga.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Adq2_RSA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/q1_rsa_dfkey.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/q1_RSA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/q3_elgamal_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/q3_elgamal_simple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,25 +41,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Adq1_DBelga.executor": "Run",
     "Python.Adq2_Block1&2_DES.executor": "Run",
     "Python.Adq4_DES_CBC.executor": "Run",
     "Python.main.executor": "Run",
     "Python.prac.executor": "Run",
     "Python.q1.executor": "Run",
     "Python.q1_RSA.executor": "Run",
+    "Python.q1_rsa_dfkey.executor": "Run",
     "Python.q1encrypt_des.executor": "Run",
     "Python.q2AES_128_Sensitive.executor": "Run",
     "Python.q2_ECC_simple.executor": "Run",
+    "Python.q2_RSA.executor": "Run",
     "Python.q3_elgamal_simple.executor": "Run",
     "Python.q5.executor": "Run",
     "Python.q5_AES192.executor": "Run",
+    "Python.q5_DHkey.executor": "Run",
     "Python.q6.executor": "Run",
+    "Python.xxx--q2_ECC_simple.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.q3_elgamal_simple">
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
