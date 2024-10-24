@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c545d44-0bf3-4ebc-b48a-7d69da3d4dfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab5/ad_q1_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/ad_q1_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/q1_hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/q2_socketprog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/q3_sha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/q1_elgamal_schnor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/q3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +46,13 @@
     "Python.q1_elgamal_schnor.executor": "Run",
     "Python.q1_hash.executor": "Run",
     "Python.q1_rsa_dfkey.executor": "Run",
+    "Python.q1_schnor.executor": "Run",
     "Python.q1encrypt_des.executor": "Run",
     "Python.q2AES_128_Sensitive.executor": "Run",
     "Python.q2_ECC_simple.executor": "Run",
     "Python.q2_RSA.executor": "Run",
     "Python.q2_socketprog.executor": "Run",
+    "Python.q3.executor": "Run",
     "Python.q3_elgamal_simple.executor": "Run",
     "Python.q3_sha.executor": "Run",
     "Python.q5.executor": "Run",
