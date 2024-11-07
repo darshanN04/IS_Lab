@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c545d44-0bf3-4ebc-b48a-7d69da3d4dfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/q5,_notworkingfull.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/a1_c1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/a1_s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/eccurepay.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/prac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/q5_DHkey.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/xxx--q2_ECC_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/q2_ECC_simple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Adq1_DBelga.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/drm_audit.log" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/q1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/drm_system.db" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/q2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +41,7 @@
     "Python.Adq2_RSA.executor": "Run",
     "Python.Adq4_DES_CBC.executor": "Run",
     "Python.a1_s1.executor": "Run",
+    "Python.a1q1_homomorphic.executor": "Run",
     "Python.eccurepay.executor": "Run",
     "Python.main.executor": "Run",
     "Python.prac.executor": "Run",
@@ -58,6 +49,7 @@
     "Python.q1_RSA.executor": "Run",
     "Python.q1_elgamal_schnor.executor": "Run",
     "Python.q1_hash.executor": "Run",
+    "Python.q1_paillier_add_mul.executor": "Run",
     "Python.q1_rsa_dfkey.executor": "Run",
     "Python.q1_schnor.executor": "Run",
     "Python.q1encrypt_des.executor": "Run",
@@ -65,6 +57,7 @@
     "Python.q2AES_128_Sensitive.executor": "Run",
     "Python.q2_ECC_simple.executor": "Run",
     "Python.q2_RSA.executor": "Run",
+    "Python.q2_RSA_2int.executor": "Run",
     "Python.q2_socketprog.executor": "Run",
     "Python.q3.executor": "Run",
     "Python.q3_elgamal_simple.executor": "Run",
