@@ -1,0 +1,10 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-525-995
+INFO:root:Generated new key pair for 1 at 2024-11-07 06:39:12.537689
+INFO:root:Revoked key for 1 at 2024-11-07 06:39:19.631758
+WARNING:root:Key for 1 not found for renewal.
+INFO:root:Generated new key pair for 1 at 2024-11-07 06:40:16.475265
